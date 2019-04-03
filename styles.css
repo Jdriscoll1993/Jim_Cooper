@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+    background-image: url(jimmy.jpg);
+     
+}
+
+
+li {
+    text-align: center;
+    margin-bottom: .6em;
+    list-style: none;
+    background-color: palegoldenrod;
+}
+
+h2 {
+    color: slateblue;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+h1 {
+    color: slategray;
+    background-color: springgreen;
+    text-align: center;
+    font-size: 75px;
+    border-radius:75px;
+}
